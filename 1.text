@@ -1,4 +1,4 @@
-Add a simple .htacess file in your site folder with the follwoing lines
+Add a simple .htacess file in your site folder with the follwoing lines:
 
 
 RewriteEngine on
